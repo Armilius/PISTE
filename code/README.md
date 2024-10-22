@@ -12,7 +12,7 @@
 > cd ./PISTE/code #enter the current directory
 > conda create -n piste python=3.6
 > conda activate piste 
-> conda install pytorch==1.10.2 torchvision==0.11.3 torchaudio==0.10.2 cudatoolkit=11.3.1 -c pytorch -c conda-forge  
+> conda install pytorch==1.10.2 torchvision==0.11.3 torchaudio==0.10.2 cudatoolkit==11.3.1 -c pytorch -c conda-forge  
 > pip install numpy==1.19.2 pandas==1.1.5 scikit_learn==0.20.2 scipy==1.5.4 tqdm==4.64.1 
 </code>
 </pre>
